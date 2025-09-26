@@ -48,7 +48,7 @@ dependencies:
   path: ^1.8.3             # Helper for database path
   path_provider: ^2.1.2    # To find folder paths for exporting files
   csv: ^5.1.1              # To convert data to CSV format
-  file_picker: ^6.2.0      # To let the user import files
+  file_picker: ^6.2.1      # To let the user import files
   fl_chart: ^0.67.0                     # For creating beautiful charts
   image_picker: ^1.1.0                  # To pick images from camera/gallery for OCR
   google_mlkit_text_recognition: ^0.11.0
